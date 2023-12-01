@@ -17,6 +17,13 @@
     "3xl": { "$type": "number", "$value": "24px" },
     "full": { "$type": "number", "$value": "9999px" }
   },
+  "Border Width": {
+    "0": { "$type": "number", "$value": "0px" },
+    "1": { "$type": "number", "$value": "1px" },
+    "2": { "$type": "number", "$value": "2px" },
+    "4": { "$type": "number", "$value": "4px" },
+    "8": { "$type": "number", "$value": "8px" }
+  },
   "Font Size": {
     "xs": { "$type": "number", "$value": "12px" },
     "sm": { "$type": "number", "$value": "14px" },
